@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jagan/Documents/coding/MLops-DDOS/mlflow-exp-track/mlruns/806241562126985446/acb777a3bf3948ee86e8d5bf2673a1fe/artifacts
+end_time: 1768446219735
+entry_point_name: ''
+experiment_id: '806241562126985446'
+lifecycle_stage: active
+run_id: acb777a3bf3948ee86e8d5bf2673a1fe
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768446217776
+status: 3
+tags: []
+user_id: jagan

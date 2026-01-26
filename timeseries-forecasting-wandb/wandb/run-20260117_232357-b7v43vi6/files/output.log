@@ -1,0 +1,31 @@
+wandb:   2 of 2 files downloaded.  
+Train: 314 rows | Val: 60 rows
+C:\Users\jagan\Documents\coding\MLops-DDOS\timeseries-forecasting-wandb\.venv\lib\site-packages\torch\nn\modules\loss.py:634: UserWarning: Using a target size (torch.Size([1])) that is different to the input size (torch.Size([1, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+Epoch 0 | Train Loss: 0.975709 | Val Loss: 2.658241
+ + Best model updated at epoch 0 (val_loss: 2.658241)
+Epoch 1 | Train Loss: 0.952265 | Val Loss: 2.400313
+ + Best model updated at epoch 1 (val_loss: 2.400313)
+Epoch 2 | Train Loss: 0.916585 | Val Loss: 1.978424
+ + Best model updated at epoch 2 (val_loss: 1.978424)
+Epoch 3 | Train Loss: 0.807802 | Val Loss: 0.892111
+ + Best model updated at epoch 3 (val_loss: 0.892111)
+Epoch 4 | Train Loss: 0.659333 | Val Loss: 0.885048
+ + Best model updated at epoch 4 (val_loss: 0.885048)
+Epoch 5 | Train Loss: 0.606113 | Val Loss: 0.926603
+Epoch 6 | Train Loss: 0.575579 | Val Loss: 0.945300
+Epoch 7 | Train Loss: 0.553079 | Val Loss: 0.889166
+Epoch 8 | Train Loss: 0.539047 | Val Loss: 0.829722
+ + Best model updated at epoch 8 (val_loss: 0.829722)
+Epoch 9 | Train Loss: 0.546796 | Val Loss: 0.733289
+ + Best model updated at epoch 9 (val_loss: 0.733289)
+Epoch 10 | Train Loss: 0.536135 | Val Loss: 0.633386
+ + Best model updated at epoch 10 (val_loss: 0.633386)
+Epoch 11 | Train Loss: 0.502391 | Val Loss: 0.591288
+ + Best model updated at epoch 11 (val_loss: 0.591288)
+Epoch 12 | Train Loss: 0.496332 | Val Loss: 0.567896
+ + Best model updated at epoch 12 (val_loss: 0.567896)
+Epoch 13 | Train Loss: 0.488070 | Val Loss: 0.573213
+Epoch 14 | Train Loss: 0.483583 | Val Loss: 0.564878
+ + Best model updated at epoch 14 (val_loss: 0.564878)
+Training complete!

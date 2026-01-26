@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jagan/Documents/coding/MLops-DDOS/mlflow-exp-track/mlruns/806241562126985446/cf290024fbf2456bb6aeb99d7db3f7b9/artifacts
+end_time: 1768446221541
+entry_point_name: ''
+experiment_id: '806241562126985446'
+lifecycle_stage: active
+run_id: cf290024fbf2456bb6aeb99d7db3f7b9
+run_name: SVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768446219738
+status: 3
+tags: []
+user_id: jagan

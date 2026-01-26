@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/dvc_project/dvc_guide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mlflow-sklearn-experiment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reproducability-and-versioning-in-ml-systems-II" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/timeseries-forecasting-wandb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/versioning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wandb-expt" vcs="Git" />
+  </component>
+</project>

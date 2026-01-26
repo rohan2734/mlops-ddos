@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/jagan/Documents/coding/MLops-DDOS/mlflow-sklearn-experiment/model_tracking/960110690696793417/models/m-f667fa0472da46d6bdf71831092ee42b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.8.1
+model_id: m-f667fa0472da46d6bdf71831092ee42b
+model_size_bytes: 270493
+model_uuid: m-f667fa0472da46d6bdf71831092ee42b
+prompts: null
+run_id: 373c88d9cef742e58356564827e3a960
+utc_time_created: '2026-01-14 08:45:34.133742'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jagan/Documents/coding/MLops-DDOS/mlflow-sklearn-experiment/model_tracking/960110690696793417/373c88d9cef742e58356564827e3a960/artifacts
+end_time: 1768380336179
+entry_point_name: ''
+experiment_id: '960110690696793417'
+lifecycle_stage: active
+run_id: 373c88d9cef742e58356564827e3a960
+run_name: learning_mlflow
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768379969991
+status: 3
+tags: []
+user_id: jagan

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/jagan/Documents/coding/MLops-DDOS/mlflow-exp-track/mlruns/806241562126985446/models/m-ca378bc3c9ec49e0b6a75277241859dc/artifacts
+creation_timestamp: 1768446219767
+experiment_id: '806241562126985446'
+last_updated_timestamp: 1768446221538
+model_id: m-ca378bc3c9ec49e0b6a75277241859dc
+model_type: null
+name: model
+source_run_id: cf290024fbf2456bb6aeb99d7db3f7b9
+status: 2
+status_message: null

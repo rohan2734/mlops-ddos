@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/jagan/Documents/coding/MLops-DDOS/mlflow-exp-track/mlruns/806241562126985446/7ee5aadb88d348daa80aed4b2bba7b61/artifacts
+end_time: 1768446217773
+entry_point_name: ''
+experiment_id: '806241562126985446'
+lifecycle_stage: active
+run_id: 7ee5aadb88d348daa80aed4b2bba7b61
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768446215472
+status: 3
+tags: []
+user_id: jagan
