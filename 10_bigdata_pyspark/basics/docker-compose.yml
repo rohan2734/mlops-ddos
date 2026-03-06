@@ -1,0 +1,9 @@
+services:
+  spark:
+    build: ..
+    container_name: pyspark-local
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: watchmedo auto-restart --patterns="*.py" --recursive -- /opt/spark/bin/spark-submit main.py
+

@@ -1,0 +1,2 @@
+.\.git
+.\dvc_project\dvc_guide\.git

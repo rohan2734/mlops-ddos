@@ -1,0 +1,11 @@
+services:
+  spark-ml:
+    build: .
+    container_name: spark-ml-local
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: >
+      /opt/spark/bin/spark-submit
+      --master local[*]
+      spark_ml_pipeline.py

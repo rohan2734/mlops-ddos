@@ -1,0 +1,17 @@
+syntax="proto3"; //version of protocol buffers(protobuf)
+
+service MLModel {
+    rpc Predict(Predict) returns (PredictResponse);
+}
+//defining gRPC service named MLModel.
+//service is like an endpoint , contains one or more RPC methods that client can call
+//inside the service, we define a RPC method called Predict
+
+message PredictRequest{
+    repeated float features=1;
+}//defines request messages structure
+
+message PreductResponse{
+    float prediction=1;
+    string model_version=2;
+}//defines the response message structure

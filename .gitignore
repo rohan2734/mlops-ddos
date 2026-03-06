@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data and large files
+*.csv
+*.xlsx
+*.xlsm
+*.xls
+*.db
+*.sqlite3
+*.dll
+*.exe
+
+# DVC specific
+.dvc/
+.dvc/config.local
+/dvc_project/dvc_guide/data/
+
+# IDE and Project
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Models
+*.pt
+*.pth
+*.keras
+*.h5

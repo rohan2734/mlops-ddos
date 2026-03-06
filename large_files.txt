@@ -1,0 +1,5 @@
+.\10_bigdata_pyspark\pipeline-orchestration-with-perfect\prefect-demo\.venv\Scripts\uv.exe - 61.08 MB
+.\dvc_project\dvc_guide\.dvc\cache\files\md5\a2\a30fe52f8933dff88ea264c5958784 - 199.75 MB
+.\dvc_project\dvc_guide\data\data.csv - 199.75 MB
+.\reproducability-and-versioning-in-ml-systems-II\.venv\Lib\site-packages\torch\lib\torch_cpu.dll - 250.49 MB
+.\timeseries-forecasting-wandb\.venv\Lib\site-packages\torch\lib\torch_cpu.dll - 250.49 MB

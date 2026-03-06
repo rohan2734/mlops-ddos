@@ -1,7 +1,0 @@
-{"time":"2026-01-17T14:01:24.3991838+05:30","level":"INFO","msg":"stream: starting","core version":"0.24.0"}
-{"time":"2026-01-17T14:01:24.8992904+05:30","level":"INFO","msg":"stream: created new stream","id":"rsilvbu9"}
-{"time":"2026-01-17T14:01:24.8992904+05:30","level":"INFO","msg":"handler: started","stream_id":"rsilvbu9"}
-{"time":"2026-01-17T14:01:24.9007765+05:30","level":"INFO","msg":"stream: started","id":"rsilvbu9"}
-{"time":"2026-01-17T14:01:24.9007765+05:30","level":"INFO","msg":"writer: started","stream_id":"rsilvbu9"}
-{"time":"2026-01-17T14:01:24.9007765+05:30","level":"INFO","msg":"sender: started","stream_id":"rsilvbu9"}
-{"time":"2026-01-17T14:30:25.2940285+05:30","level":"ERROR","msg":"monitor: error sampling metrics: process does not exist"}
